@@ -1,0 +1,2 @@
+frameId,dateTime,targetID,longitude,latitude,targetType,vehicleSize,plateNo,plateColor,vehicleLogo,vehicleSublogo,laneNo,vehicleParkingTimes,position_X,position_Y,speed,horizonSpeed,normalizationPosition_X,normalizationPosition_Y,targetMaxY,relativeMotionStatus,shipLength,isOutOfRelayArea,vehicleType,radarDirection,horizontal,vertical
+0,2004-05-03T17:30:08.123+08:00,1,-180,-90,vehicle,oversize,¿∂’„AX2P12,yellow,1,1,1,1,500.000,500.000,23.400,33.400,500,500,340.000,approaching,10,1,bus,0.000,0.000,0.000
